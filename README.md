@@ -1,2 +1,2 @@
 # stereoScopicLab
-Base of an application that realizes stereoscopic viewing on android without using goggles.
+Base of an application that implementation stereoscopic viewing on android without using goggles.
